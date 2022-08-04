@@ -1,0 +1,60 @@
+{
+  "id": 1,
+  "name": "Softwerker",
+  "publicationDate": "2020-07-10T13:30:00Z",
+  "articles": [
+    {
+      "title": "France's farmers forced to switch behavior",
+      "author": "John Smith",
+      "content": [
+        {
+          "@type": "Paragraph",
+          "text": "No other EU country exports more grain than France. But heat and drought threaten the harvest - now, of all times, when Ukraine is out. Farmers must make long-term adjustments."
+        },
+        {
+          "@type": "Box",
+          "children": [
+            {
+              "@type": "Paragraph",
+              "text": "A large man's hand can easily fit into the dry cracks in the soil. In the west of Paris, farmer David Lavernant wants to harvest barley soon. But the soil crumbles between his fingers like dust. The plants look puny. Normally, the barley should be about 80 centimeters high at this time of year, he says, but now it's 20, 25 centimeters below that. He will probably have to grow something else soon. Plants that need less water. Millet, for example. Or soy. There was nothing like that here in the past."
+            },
+            {
+              "@type": "Section",
+              "text": "Wheat production will decline"
+            },
+            {
+              "@type": "Paragraph",
+              "text": "The complaints of French farmers have become louder and louder in recent weeks. Drought and lack of water bother them and their fields. The chair of the largest farmers' union, FNSEA, Christiane Lambert, sounds the alarm: \"We know that wheat production will fall by four percent. We will have to irrigate more in some regions. Because if production is lower, prices will rise."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "French fries are awesome",
+      "content": [
+        {
+          "@type": "Paragraph",
+          "text": "Buy french fries at Frittenwerk - Now at Frankfurt central station."
+        }
+      ]
+    },
+    {
+      "title": "Reader's letters",
+      "content": [
+        {
+          "@type": "Paragraph",
+          "text": "I really liked the last Kotlin article! It was great and clearly showed that Kotlin is superior to Java"
+        },
+        {
+          "@type": "Paragraph",
+          "text": "Your last article concerning Kotlin was extremely one-sided. It's author haven't used Java in years."
+        },
+        {
+          "@type": "Paragraph",
+          "text": "According to your last Kotlin Article: Scala. Nothing more to say."
+        }
+      ]
+    }
+  ]
+}

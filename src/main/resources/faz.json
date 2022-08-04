@@ -1,0 +1,56 @@
+{
+  "id": 2,
+  "name": "FAZ",
+  "publicationDate": "2021-01-01T09:30:00Z",
+  "articles": [
+    {
+      "title": "Editorial",
+      "content": [
+        {
+          "@type": "Paragraph",
+          "text": "Dear Readers,"
+        },
+        {
+          "@type": "Paragraph",
+          "text": "Another year went by and we improved our articles a lot. They are now longer, more detailed and 100% true."
+        },
+        {
+          "@type": "Paragraph",
+          "text": "I don't know what else to write as everything will be covered by the following articles."
+        }
+      ]
+    },
+    {
+      "title": "And they keep going",
+      "author": "John Smith",
+      "content": [
+        {
+          "@type": "Paragraph",
+          "text": "McConnell, Pelosi and Biden: In US politics, the most powerful are almost all around 80 years old, and many Americans do not find their affairs represented by them. Only the old want to continue running - with good prospects."
+        },
+        {
+          "@type": "Paragraph",
+          "text": "Four years ago, a memorable dialogue erupted in the US Senate. Utah Senator Orrin Hatch, then 84 and who died in April of this year, asked 33-year-old Mark Zuckerberg about Facebook's business practices: 'How do you sustain a business model when customers aren't paying for your services?' Hatch, and Zuckerberg soberly replied, 'Senator, we sell ads.'"
+        },
+        {
+          "@type": "Paragraph",
+          "text": "The short dialogue is often used when the question arises as to whether American politics urgently needs to be rejuvenated. America is a gerontocracy, they say, the country is ruled by old people."
+        }
+      ]
+    },
+    {
+      "title": "10x faster software delivery",
+      "author": "Fletcher",
+      "content": [
+        {
+          "@type": "Paragraph",
+          "text": "Curious how the time-to-market can be reduced ten times?"
+        },
+        {
+          "@type": "Paragraph",
+          "text": "Contact codecentric Frankfurt"
+        }
+      ]
+    }
+  ]
+}
