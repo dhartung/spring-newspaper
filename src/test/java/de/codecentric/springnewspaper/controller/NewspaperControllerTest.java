@@ -18,7 +18,7 @@ public class NewspaperControllerTest {
 
     @Test
     void canRetrieveDefaultNewspaper() {
-        Newspaper actual = webClient.post()
+        Newspaper actual = webClient.get()
                 .uri("/newspaper/1")
                 .header(HttpHeaders.ACCEPT, MediaType.APPLICATION_JSON_VALUE)
                 .exchange()
