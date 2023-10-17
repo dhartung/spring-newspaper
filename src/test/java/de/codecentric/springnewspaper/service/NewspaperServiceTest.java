@@ -46,4 +46,10 @@ public class NewspaperServiceTest {
         Assertions.assertThatThrownBy(() -> newspaperService.getNewspaperById(43))
                 .isInstanceOf(NoSuchElementException.class);
     }
+
+    @Test
+    void shouldReturnExample() {
+        Assertions.assertThat(newspaperService.getExample())
+            .isEqualTo("Lecker!");
+    }
 }

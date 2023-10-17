@@ -25,4 +25,8 @@ public class NewspaperService {
 
         return newspaper;
     }
+
+    public String getExample() {
+        return ExampleService.frenchFries();
+    }
 }
